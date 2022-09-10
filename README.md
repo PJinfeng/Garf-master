@@ -1,5 +1,4 @@
 # Garf-master
-# Garf-master
 
 实验需要在数据库中存在4个数据集，以Hosp_rules为例(config.ini中path_pos = Hosp_rules_copy，若变更数据集则变更此处)  
 Hosp_rules是初始干净数据集  
