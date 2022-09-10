@@ -13,7 +13,7 @@ Hosp_rules_copy2是添加的错误数据所对应的真实正确数据，初始�
 自己添加的数据集需要在最后一列添加Label列，但全置空即可，仅在eva.py进行结果评估时使用，但由于代码过程中包含去除Label列影响，缺少会影响结果或报错  
 
 本代码已进行模块化拆分，默认单向训练并保存模型结果，实际使用时请至少正向运行一次，反向运行一次，多次运行能少量提升性能结果  
-在main.py中order = 1代表正向；order = 0代表正向，第二次运行时请勿重新添加错误数据，请注释掉insert_error(path_ori, path, error_rate)  
+在main.py中order = 1代表正向；order = 0代表反向，第二次运行时请勿重新添加错误数据，请注释掉insert_error(path_ori, path, error_rate)  
 insert_error.py用于添加错误，错误包含3类：拼写错误，数据缺失，同属性列下其他值随机替换，若不需要则同样注释掉insert_error(path_ori, path, error_rate)  
 提高config.ini中g_pre_epochs，d_pre_epochs数值(即模型生成器和判别器迭代次数)可少量提升性能，但时间代价增大  
 
