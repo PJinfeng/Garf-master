@@ -1,0 +1,500 @@
+wunderground AA-2312-DFW-DTW 8:25 p.m. 8:25 p.m. 11:50 p.m. 11:50 p.m. flights 8:52 a.m. 6:02 a.m. 9:15 a.m. 5:08 p.m.
+weather CO-1586-IAH-MCO 7:00 p.m. 7:14 p.m. 10:15 p.m. 10:29 p.m. UA-843-LAX-ORD 8:39 p.m. AA-2525-DFW-MIA 4:17 p.m.
+flightview AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. 3:33 p.m. 1:19 p.m. iad 12:13 p.m.
+flytecomm AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:05 a.m. 11:01 a.m. 9:45 p.m. 12:00 p.m. myrateplan AA-3756-ORD-SLC
+allegiantair UA-2314-ATL-PHL <UNK> <UNK> 5:00 p.m. 4:47 p.m. 4:09 p.m. AA-3979-CVG-ORD 9:56 a.m. AA-3859-IAH-ORD 9:53 p.m.
+flightaware UA-3925-IAD-ORF 8:41 a.m. 8:42 a.m. 9:54 a.m. 9:43 a.m. 2:45 p.m. 12:30 a.m. 2:30 p.m. 8:41 a.m.
+businesstravellogue AA-1544-SAN-ORD 11:25 a.m. 11:40 a.m. 5:25 p.m. 4:56 p.m. AA-3842-MSP-ORD 5:17 p.m. 4:15 p.m. 11:35 a.m.
+flightstats 11:50 a.m. 12:30 a.m. 12:41 a.m. 5:35 a.m. 5:26 a.m. UA-938-DEN-ORD 6:30 p.m. 6:46 p.m. flightstats
+orbitz UA-2906-PHL-MCO 3:50 p.m. 4:28 p.m. 6:23 p.m. 6:38 p.m. myrateplan 7:58 p.m. AA-1434-DFW-MCO 6:28 p.m. CO-1023-IAH-DEN
+flytecomm UA-2906-PHL-MCO 3:50 p.m. 4:28 p.m. 6:23 p.m. 6:38 p.m. AA-3809-PHX-LAX AA-3786-IAH-ORD 9:24 a.m. UA-828-SFO-ORD
+travelocity AA-1544-SAN-ORD 11:25 a.m. 11:40 a.m. 5:25 p.m. 4:56 p.m. 7:45 p.m. 8:55 a.m. 8:06 a.m. 9:40 a.m.
+flights CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. 9:45 p.m. flightstats 2:26 p.m. 4:44 p.m.
+flights AA-484-DFW-MIA 4:15 p.m. 12:13 p.m. 7:55 p.m. 7:39 p.m. 7:00 p.m. 10:54 a.m. 8:05 p.m. 5:05 p.m.
+flytecomm CO-1586-IAH-MCO 7:00 p.m. 7:14 p.m. 10:15 p.m. 10:29 p.m. 11:30 a.m. 5:34 p.m. 3:30 p.m. usatoday CO-1023-IAH-DEN
+allegiantair CO-1088-CLE-IAH 8:40 a.m. 8:40 a.m. 10:54 a.m. 10:56 a.m. 1:43 p.m. 7:00 p.m. 8:53 p.m. 7:31 a.m. 12:09 p.m.
+flightaware CO-16-LAX-EWR 10:25 a.m. 10:20 a.m. 6:44 p.m. 5:26 a.m. 7:15 a.m. UA-233-LAX-JFK CO-1090-BOS-IAH AA-3786-IAH-ORD
+flytecomm UA-248-PHX-ORD 12:57 p.m. 1:32 p.m. 5:15 p.m. 5:34 p.m. CO-58-DEN-IAH 11:21 a.m. UA-3050-PHX-CLT 1:40 p.m.
+allegiantair AA-1007-MIA-PHX 4:55 p.m. 5:08 p.m. 8:05 p.m. 7:55 p.m. UA-2708-EWR-CLT 12:29 a.m. 1:45 p.m. 6:38 p.m.
+allegiantair UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. UA-37-EWR-MCO 1:40 p.m. 2:53 p.m. UA-858-PVG-SFO
+flightaware CO-16-LAX-EWR 10:25 a.m. 10:20 a.m. 6:44 p.m. 6:34 p.m. 3:43 p.m. 2:15 p.m. 5:34 p.m. UA-62-IAH-EWR
+allegiantair 7:27 a.m. 8:00 a.m. 8:04 a.m. 8:00 a.m. error1 6:00 a.m. mytripandmore 3:36 p.m. AA-3859-IAH-ORD
+flightarrival UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. 7:23 a.m. AA-3-JFK-LAX 4:29 p.m. 1:00 p.m.
+flytecomm AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. AA-446-DFW-PHL 10:47 a.m. AA-446-DFW-PHL 9:00 p.m. 6:40 a.m.
+flights AA-3804-PHL-ORD 2:35 p.m. 2:44 p.m. 4:05 p.m. 10:40 a.m. AA-643-MIA-ORD 10:04 a.m. 1:29 p.m. 3:13 p.m.
+world-flight-tracker UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. missing 12:09 p.m. 4:12 p.m. missing 8:51 a.m. 3:35 p.m.
+myrateplan UA-2906-PHL-MCO 3:50 p.m. 4:28 p.m. 6:23 p.m. 6:38 p.m. AA-4330-CVG-ORD 9:53 p.m. 12:18 p.m. error1 12:35 p.m. error5
+flightexplorer UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. 6:59 a.m. airtravelcenter 8:00 a.m. 9:21 a.m.
+flylouisville 11:01 a.m. 2:59 p.m. 3:30 p.m. 11:45 a.m. 3:14 p.m. CO-52-IAH-LAX 7:25 p.m. 10:55 a.m. 8:03 p.m.
+flights AA-446-DFW-PHL 11:50 a.m. 3:50 p.m. 3:50 p.m. 4:09 p.m. 10:27 a.m. 12:55 p.m. 8:55 a.m. AA-431-MIA-SFO
+travelocity AA-484-DFW-MIA 4:15 p.m. 10:55 a.m. 11:56 a.m. missing weather 11:40 a.m. 11:55 a.m. UA-2726-FLL-PHL 11:25 p.m.
+orbitz 10:40 a.m. 11:50 a.m. 11:01 a.m. 2:59 p.m. 3:04 p.m. 10:39 a.m. 7:55 p.m. 3:33 p.m. AA-466-IAH-MIA
+flytecomm AA-2050-ORD-MIA 10:40 a.m. 11:05 a.m. 2:45 p.m. 2:46 p.m. 11:44 a.m. CO-4888-IAH-DAL 7:45 p.m. 8:22 p.m.
+businesstravellogue AA-616-DFW-DTW 9:05 a.m. 10:10 a.m. 12:35 p.m. 1:27 p.m. UA-1500-IAH-GUA UA-938-DEN-ORD 5:38 p.m. AA-3468-CVG-MIA CO-16-LAX-EWR
+weather AA-431-MIA-SFO 8:35 a.m. 8:51 a.m. 11:50 a.m. 11:44 a.m. 8:02 a.m. mytripandmore 4:48 p.m. 11:12 a.m.
+flightaware AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. 1:30 p.m. CO-16-LAX-EWR 10:19 a.m. 6:40 a.m.
+flightaware AA-204-LAX-MCO 11:25 p.m. 11:25 p.m. 6:55 a.m. 6:55 a.m. 6:43 p.m. AA-2525-DFW-MIA AA-2312-DFW-DTW 10:36 a.m. flytecomm
+flytecomm AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. sfo CO-4888-IAH-DAL 11:44 a.m. 11:52 a.m.
+foxbusiness UA-397-JFK-SFO 8:00 a.m. <UNK> 11:55 a.m. 11:58 a.m. 2:20 p.m. 10:19 a.m. CO-1561-PHX-IAH AA-4344-ORD-DTW
+airtravelcenter UA-2906-PHL-MCO 3:50 p.m. 4:28 p.m. 6:23 p.m. 6:38 p.m. 6:30 p.m. UA-843-LAX-ORD 11:10 a.m. 10:06 a.m.
+flights AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:19 a.m. 2:44 p.m. CO-62-IAH-EWR AA-3979-CVG-ORD 12:55 p.m.
+flytecomm UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. wunderground CO-52-IAH-LAX 7:25 a.m. 7:00 a.m. 12:29 a.m.
+quicktrip AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. error4 UA-2515-DFW-CLT 4:47 p.m. 9:32 a.m. AA-1522-SFO-ORD
+myrateplan AA-3786-IAH-ORD 4:00 p.m. 4:12 p.m. 6:40 p.m. 6:15 p.m. flightaware 6:36 p.m. 8:25 p.m. CO-47-IAH-LAX <S>
+orbitz AA-3786-IAH-ORD 4:00 p.m. 6:08 a.m. 6:19 a.m. 2:35 p.m. 11:25 a.m. UA-3099-PHX-PHL 8:02 a.m. AA-1165-JFK-MIA
+flightwise AA-1434-DFW-MCO 7:15 a.m. 7:21 a.m. 10:35 a.m. 10:36 a.m. 7:27 a.m. 12:50 p.m. 2:30 p.m. 11:06 a.m. UA-854-SFO-IAH
+airtravelcenter AA-1733-ORD-PHX 7:45 p.m. 7:58 p.m. 10:30 p.m. 10:30 p.m. 6:55 a.m. AA-3809-PHX-LAX 12:00 a.m. 10:47 a.m. 9:00 p.m.
+world-flight-tracker AA-1522-SFO-ORD 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. 8:06 a.m. AA-1664-MIA-ATL 8:02 a.m. CO-62-IAH-EWR
+flights AA-484-DFW-MIA 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. 6:43 p.m. UA-3099-PHX-PHL UA-3515-IAD-MSP sfo
+myrateplan AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. 10:16 a.m. 7:15 p.m. 10:29 p.m. 3:01 p.m.
+airtravelcenter UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. 12:29 a.m. 12:29 a.m. CO-89-IAH-EWR 12:30 a.m. 7:53 p.m. missing
+businesstravellogue 12:41 a.m. 8:00 p.m. 8:23 p.m. 9:53 p.m. 9:20 a.m. 9:53 p.m. 12:00 p.m. 12:55 p.m. 3:30 p.m.
+flightexplorer AA-1434-DFW-MCO 7:15 a.m. 7:21 a.m. 10:35 a.m. 10:36 a.m. 2:44 p.m. 9:05 a.m. 2:20 p.m. 1:19 p.m.
+allegiantair UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 12:09 p.m. 8:12 a.m. UA-2708-EWR-CLT AA-204-LAX-MCO 2:44 p.m.
+mia AA-1886-BOS-MIA 10:45 a.m. 10:55 a.m. 2:20 p.m. 1:40 p.m. 9:10 p.m. 8:12 a.m. mytripandmore 4:17 p.m.
+usatoday AA-466-IAH-MIA 6:00 a.m. 6:02 a.m. 10:20 a.m. 10:27 a.m. 11:32 a.m. UA-2945-PHL-CLT 1:33 p.m. UA-2704-DTW-PHX
+flylouisville UA-2945-PHL-CLT 12:00 a.m. 3:11 a.m. 1:45 p.m. 1:15 p.m. 4:16 p.m. 8:15 a.m. UA-854-SFO-IAH ord
+orbitz CO-62-IAH-EWR 2:30 p.m. 2:48 p.m. 7:03 p.m. 7:10 p.m. 7:17 a.m. panynj 5:00 p.m. 7:10 p.m. 10:27 a.m.
+orbitz AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. 8:52 a.m. UA-6273-YYC-SFO UA-828-SFO-ORD 9:10 p.m.
+sfo CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. 10:47 a.m. flightview flytecomm 7:21 a.m.
+flightstats UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. 12:29 a.m. AA-3809-PHX-LAX travelocity 9:55 a.m. panynj CO-89-IAH-EWR
+flytecomm AA-1733-ORD-PHX 7:45 p.m. 7:58 p.m. 10:30 p.m. 10:30 p.m. 7:00 p.m. 2:59 p.m. 9:25 a.m. 1:14 p.m. 8:56 a.m.
+flylouisville UA-2726-FLL-PHL 4:00 p.m. 4:00 p.m. 6:46 p.m. 6:28 p.m. 3:58 p.m. 7:10 a.m. mytripandmore AA-1279-DFW-PHX 7:15 a.m.
+gofox UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. allegiantair 6:40 p.m. mytripandmore 9:55 a.m.
+world-flight-tracker UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. AA-404-MIA-MCO AA-616-DFW-DTW 1:43 p.m. UA-37-EWR-MCO world-flight-tracker
+businesstravellogue UA-858-PVG-SFO 1:45 p.m. 1:32 p.m. 8:27 a.m. 8:02 a.m. 8:22 p.m. 5:34 p.m. CO-1090-BOS-IAH 4:23 p.m. 5:05 p.m.
+flightview AA-4277-CVG-JFK 12:10 p.m. 12:10 p.m. 2:15 p.m. 1:43 p.m. 9:45 p.m. 11:44 a.m. 2:44 p.m. 9:14 a.m.
+flightaware AA-3756-ORD-SLC 8:35 a.m. 11:25 p.m. 9:56 a.m. AA-85-JFK-SFO 7:05 p.m. 10:47 a.m. 2:50 p.m. UA-3515-IAD-MSP
+flights AA-2268-PHX-ORD 7:15 a.m. 7:22 a.m. 11:35 a.m. 11:06 a.m. UA-5487-SFO-MRY 6:40 a.m. 10:55 a.m. 3:11 a.m.
+flights AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. 7:49 a.m. 2:35 p.m. 11:12 a.m. 6:38 p.m. UA-5487-SFO-MRY
+usatoday UA-414-LAX-SFO 6:00 a.m. 5:56 a.m. 8:05 a.m. missing 10:27 a.m. 4:55 p.m. 9:45 a.m. 10:18 a.m. 2:45 p.m.
+airtravelcenter AA-3823-LAX-DEN 9:00 p.m. 9:00 p.m. 12:15 a.m. 12:15 a.m. CO-89-IAH-EWR 4:53 p.m. 10:45 a.m. AA-85-JFK-SFO
+ifly AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. 4:17 p.m. 7:05 p.m. 9:20 a.m. 3:13 p.m.
+flytecomm AA-649-ORD-SNA 1:30 p.m. 1:30 p.m. 3:50 p.m. 3:50 p.m. 7:23 a.m. 6:55 a.m. 11:06 a.m. 3:43 p.m.
+flylouisville AA-3842-MSP-ORD 6:00 a.m. 6:56 a.m. 7:30 a.m. 7:51 a.m. 1:43 p.m. AA-3756-ORD-SLC 6:43 p.m. UA-843-LAX-ORD
+allegiantair UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. 1:29 p.m. 12:55 p.m. 10:36 a.m. 6:45 p.m. 5:42 p.m.
+aa AA-204-LAX-MCO 11:25 p.m. 6:55 a.m. missing 8:26 a.m. missing 8:06 a.m. 10:31 a.m. AA-3809-PHX-LAX
+flightaware UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. AA-616-DFW-DTW flightarrival 6:23 p.m. 11:44 a.m.
+boston UA-2515-DFW-CLT 7:05 a.m. 7:05 a.m. 10:31 a.m. 10:47 a.m. foxbusiness 7:40 a.m. AA-1544-SAN-ORD 8:03 p.m. 8:06 a.m.
+flightstats AA-1165-JFK-MIA 6:59 a.m. 7:22 a.m. 10:34 a.m. 8:02 a.m. 4:59 p.m. UA-2726-FLL-PHL 2:44 p.m. 8:51 a.m. 11:08 p.m.
+helloflight UA-6273-YYC-SFO 3:50 p.m. missing businesstravellogue CO-1250-MIA-IAH error5 dfw 12:12 p.m.
+flytecomm AA-204-LAX-MCO 11:25 p.m. 11:25 p.m. 6:55 a.m. 6:55 a.m. 10:36 a.m. 6:36 p.m. 7:51 a.m. 1:45 p.m.
+helloflight AA-204-LAX-MCO 11:25 p.m. 11:25 p.m. 6:55 a.m. 6:55 a.m. 7:31 a.m. 4:49 p.m. 9:16 a.m. UA-414-LAX-SFO 4:15 p.m.
+helloflight CO-1090-BOS-IAH 9:45 a.m. 10:19 a.m. 1:16 p.m. 1:19 p.m. AA-3756-ORD-SLC AA-4198-ORD-CLE 11:06 a.m. 9:53 p.m.
+ord AA-3979-CVG-ORD 7:30 a.m. 8:04 a.m. 8:00 a.m. 8:06 a.m. 1:27 p.m. 8:23 p.m. 7:25 a.m. airtravelcenter 1:29 p.m.
+allegiantair UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. 5:08 p.m. myrateplan 8:26 a.m. 10:30 p.m. 12:30 p.m.
+flightexplorer AA-643-MIA-ORD 7:30 a.m. 8:04 a.m. 8:00 a.m. 8:06 a.m. 10:27 a.m. 6:40 a.m. 10:19 a.m. 4:12 p.m.
+flylouisville CO-47-IAH-LAX 7:10 p.m. 8:25 p.m. 8:56 p.m. 9:52 p.m. mytripandmore 6:19 a.m. 7:27 a.m. 1:14 p.m. 2:26 p.m. 5:42 p.m.
+flylouisville UA-37-EWR-MCO 1:29 p.m. 1:48 p.m. 4:17 p.m. 4:17 p.m. 7:58 p.m. 3:15 p.m. AA-446-DFW-PHL AA-3468-CVG-MIA AA-518-MIA-JFK
+flightview CO-1694-LAX-IAH 7:15 p.m. 7:15 p.m. 12:21 a.m. 12:21 a.m. 5:25 p.m. 7:15 p.m. 1:29 p.m. 7:51 a.m. 8:03 p.m.
+ua UA-938-DEN-ORD 4:16 p.m. 4:15 p.m. 7:35 p.m. 7:36 p.m. 9:14 a.m. UA-1500-IAH-GUA den 10:18 a.m. 8:55 a.m.
+mco CO-1193-EWR-MCO 9:15 a.m. 9:14 a.m. 9:31 a.m. UA-37-EWR-MCO AA-518-MIA-JFK 4:29 p.m. 8:29 a.m. AA-1917-JFK-MCO
+flightexplorer AA-518-MIA-JFK 6:40 a.m. 6:54 a.m. 9:25 a.m. 9:28 a.m. AA-59-JFK-SFO 4:56 p.m. 6:57 a.m. 10:39 a.m. 5:42 p.m.
+orbitz CO-16-LAX-EWR 10:25 a.m. 10:20 a.m. 6:44 p.m. 6:34 p.m. 10:04 a.m. 8:04 a.m. 4:44 p.m. 12:00 a.m.
+boston UA-854-SFO-IAH 7:53 a.m. 7:49 a.m. 1:39 p.m. 1:30 p.m. 4:05 p.m. 1:27 p.m. myrateplan 2:26 p.m. flightview
+allegiantair AA-431-MIA-SFO 8:35 a.m. 8:51 a.m. 11:50 a.m. 11:44 a.m. CO-89-IAH-EWR CO-1586-IAH-MCO ua 7:15 a.m.
+travelocity UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. 1:27 p.m. 9:21 a.m. 2:27 p.m. businesstravellogue
+flightview AA-415-BOS-ORD 8:35 a.m. 8:56 a.m. 10:40 a.m. 10:16 a.m. AA-3063-SLC-LAX 8:00 a.m. 3:11 a.m. AA-1733-ORD-PHX
+quicktrip AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. 4:09 p.m. <UNK> flightaware 5:30 p.m.
+helloflight 9:16 a.m. 8:25 p.m. 8:25 p.m. 8:56 p.m. 9:52 p.m. 1:33 p.m. 6:08 a.m. 6:55 a.m. 7:29 a.m. 5:05 p.m.
+world-flight-tracker AA-404-MIA-MCO 6:45 a.m. 6:57 a.m. 7:45 a.m. 7:40 a.m. 8:05 p.m. 11:35 a.m. ord 3:05 p.m.
+flytecomm AA-1279-DFW-PHX 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. UA-1500-IAH-GUA 10:04 a.m. 7:00 a.m. 8:52 a.m.
+ord CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. 10:40 a.m. 7:55 a.m. AA-3756-ORD-SLC 9:53 p.m. 11:44 a.m.
+world-flight-tracker UA-382-IAD-LAX 12:30 p.m. 12:35 p.m. 3:19 p.m. 3:21 p.m. UA-3515-IAD-MSP 9:40 a.m. 4:09 p.m. UA-6273-YYC-SFO 10:34 a.m. aa
+flightaware UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. 7:35 a.m. 12:41 a.m. 5:05 p.m. 6:55 a.m.
+businesstravellogue UA-3099-PHX-PHL 11:55 a.m. 11:55 a.m. 6:17 p.m. 5:38 p.m. 1:48 p.m. 2:20 p.m. 2:00 p.m. AA-222-LAX-BOS
+world-flight-tracker AA-4330-CVG-ORD 3:35 p.m. 3:36 p.m. 4:00 p.m. 3:33 p.m. 1:16 p.m. 6:00 a.m. 11:25 a.m. 10:56 a.m.
+orbitz UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. 3:15 p.m. 9:53 p.m. AA-3859-IAH-ORD 7:21 a.m. AA-1640-MIA-MCO
+myrateplan AA-431-MIA-SFO 8:35 a.m. 8:51 a.m. 11:50 a.m. 11:44 a.m. flightaware AA-1221-MCO-ORD 7:14 p.m. 7:39 a.m. AA-3823-LAX-DEN
+businesstravellogue AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. 5:11 a.m. AA-1544-SAN-ORD 11:32 a.m. 8:22 p.m.
+flightaware CO-1193-EWR-MCO 9:15 a.m. 9:14 a.m. missing 12:09 p.m. AA-2525-DFW-MIA AA-2312-DFW-DTW businesstravellogue 12:50 p.m.
+flightview AA-518-MIA-JFK 6:40 a.m. 6:54 a.m. 9:25 a.m. 9:28 a.m. 8:51 a.m. 1:19 p.m. CO-1090-BOS-IAH 4:31 p.m. 10:36 a.m.
+ua AA-1165-JFK-MIA 6:59 a.m. 7:22 a.m. 10:34 a.m. 10:04 a.m. 10:40 a.m. 4:49 p.m. 4:05 p.m. 10:36 a.m. 12:29 a.m.
+wunderground CO-50-CLE-EWR <UNK> 3:31 p.m. 4:49 p.m. 5:26 p.m. 6:54 a.m. 12:30 p.m. flightwise 2:26 p.m.
+gofox UA-3050-PHX-CLT 4:15 p.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. 3:27 p.m. AA-3859-IAH-ORD 9:43 a.m. 11:21 a.m.
+world-flight-tracker CO-1250-MIA-IAH 2:53 p.m. 3:01 p.m. 4:48 p.m. 4:59 p.m. 6:15 p.m. 11:35 a.m. 11:53 a.m. AA-400-DFW-JFK 11:53 a.m.
+boston AA-3063-SLC-LAX 8:20 p.m. 8:39 p.m. 9:20 p.m. 9:20 p.m. 10:36 a.m. 6:10 a.m. 11:55 p.m. UA-2726-FLL-PHL
+flytecomm AA-1522-SFO-ORD 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. 7:35 a.m. 3:16 p.m. 1:19 p.m. AA-415-BOS-ORD
+flightview UA-414-LAX-SFO 6:00 a.m. 5:56 a.m. 7:23 a.m. 7:17 a.m. 7:00 a.m. world-flight-tracker 2:10 p.m. 8:56 a.m.
+helloflight UA-854-SFO-IAH 7:53 a.m. 7:49 a.m. 2:50 p.m. 1:30 p.m. 11:05 a.m. AA-3-JFK-LAX AA-222-LAX-BOS aa
+orbitz AA-222-LAX-BOS 7:10 a.m. 7:31 a.m. 3:30 p.m. 3:14 p.m. 1:16 p.m. UA-664-ORD-PHL 2:25 p.m. UA-6273-YYC-SFO
+helloflight AA-1279-DFW-PHX 1:00 p.m. 2:04 p.m. 2:35 p.m. 3:30 p.m. flightstats AA-85-JFK-SFO 4:47 p.m. world-flight-tracker
+orbitz AA-1640-MIA-MCO 6:30 p.m. 6:30 p.m. 7:25 p.m. 7:25 p.m. 2:30 p.m. 9:53 p.m. UA-843-LAX-ORD 4:12 p.m.
+orbitz AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. 11:05 a.m. 5:26 p.m. UA-2945-PHL-CLT 6:23 p.m.
+ifly AA-1544-SAN-ORD 11:25 a.m. 11:40 a.m. 5:25 p.m. 4:56 p.m. UA-2708-EWR-CLT sfo 6:40 p.m. 6:55 a.m.
+boston AA-2312-DFW-DTW 8:25 p.m. 8:25 p.m. 11:50 p.m. 11:50 p.m. 6:55 p.m. orbitz 10:27 a.m. 6:15 p.m. UA-2906-PHL-MCO
+quicktrip AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. AA-404-MIA-MCO AA-1007-MIA-PHX 9:43 a.m. quicktrip
+quicktrip AA-3804-PHL-ORD 2:35 p.m. 2:44 p.m. 4:05 p.m. 3:43 p.m. 6:34 p.m. 7:55 p.m. 1:55 p.m. 7:03 p.m.
+world-flight-tracker AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. 9:56 a.m. 6:55 a.m. CO-16-LAX-EWR 10:15 a.m.
+foxbusiness AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. CO-1561-PHX-IAH AA-643-MIA-ORD 5:55 p.m. AA-4307-ORD-DTW 10:06 a.m.
+mytripandmore UA-3373-IAD-PHL 8:29 a.m. 8:26 a.m. 9:24 a.m. 9:13 a.m. panynj 9:05 a.m. 9:28 a.m. 4:05 p.m.
+flylouisville AA-400-DFW-JFK 10:40 a.m. 11:01 a.m. 2:59 p.m. 3:04 p.m. 6:55 a.m. UA-3515-IAD-MSP flights 6:55 a.m.
+panynj AA-1279-DFW-PHX 1:00 p.m. 2:04 p.m. 2:35 p.m. 3:30 p.m. 6:34 p.m. 5:00 p.m. CO-1023-IAH-DEN 7:30 a.m.
+businesstravellogue AA-2268-PHX-ORD 7:15 a.m. 7:22 a.m. 11:35 a.m. 11:06 a.m. error4 12:00 p.m. AA-3859-IAH-ORD UA-2704-DTW-PHX
+CO UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. 8:05 p.m. 6:55 a.m. 4:49 p.m. UA-3515-IAD-MSP 11:19 a.m.
+allegiantair error5 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. 9:20 p.m. 11:50 a.m. 3:50 p.m. error2
+flightarrival CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. 3:04 p.m. AA-431-MIA-SFO AA-3979-CVG-ORD 10:36 a.m.
+flightaware AA-616-DFW-DTW 9:05 a.m. 10:10 a.m. 12:35 p.m. 1:27 p.m. airtravelcenter UA-1500-IAH-GUA 5:42 p.m. UA-858-PVG-SFO CO-1090-BOS-IAH
+businesstravellogue CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. AA-789-ORD-DEN 3:04 p.m. wunderground AA-1664-MIA-ATL
+flightview AA-59-JFK-SFO 7:10 a.m. missing 10:45 a.m. 11:12 a.m. AA-4198-ORD-CLE 11:35 a.m. CO-1694-LAX-IAH AA-3-JFK-LAX
+wunderground CO-1250-MIA-IAH 2:53 p.m. 3:01 p.m. 4:48 p.m. 4:59 p.m. 10:36 a.m. UA-2830-MCO-CLT 7:30 a.m. 2:26 p.m.
+aa AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:40 a.m. 6:19 a.m. phl dfw 6:36 p.m. AA-1165-JFK-MIA
+airtravelcenter AA-3842-MSP-ORD 6:00 a.m. 6:56 a.m. 7:30 a.m. 7:51 a.m. 5:11 a.m. 8:12 a.m. ifly AA-222-LAX-BOS
+world-flight-tracker AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 12:09 p.m. mytripandmore CO-45-EWR-MIA UA-2726-FLL-PHL panynj
+flylouisville AA-3063-SLC-LAX 8:20 p.m. 8:39 p.m. 9:20 p.m. 9:20 p.m. 11:50 a.m. 9:55 a.m. 9:32 a.m. UA-3099-PHX-PHL
+aa AA-59-JFK-SFO 7:10 a.m. 7:39 a.m. 10:45 a.m. 11:12 a.m. AA-1007-MIA-PHX 7:03 p.m. 11:53 a.m. AA-1544-SAN-ORD
+ua CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. AA-4344-ORD-DTW 6:08 a.m. UA-2830-MCO-CLT 1:17 p.m. 5:43 p.m.
+mco UA-37-EWR-MCO 1:29 p.m. 1:48 p.m. 4:17 p.m. 4:17 p.m. 10:15 a.m. AA-518-MIA-JFK AA-3804-PHL-ORD 11:21 a.m.
+boston AA-3786-IAH-ORD 4:00 p.m. 4:12 p.m. 6:40 p.m. 6:15 p.m. 5:22 p.m. 7:21 a.m. 7:15 a.m. 10:36 a.m.
+flightview foxbusiness 10:40 a.m. 11:50 a.m. 12:12 p.m. 3:50 p.m. 3:50 p.m. AA-3809-PHX-LAX 6:56 a.m. 4:09 p.m. 10:54 a.m.
+world-flight-tracker UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. 12:29 a.m. missing UA-3515-IAD-MSP AA-3063-SLC-LAX 12:09 p.m. AA-1917-JFK-MCO 6:34 p.m.
+businesstravellogue UA-2906-PHL-MCO 3:50 p.m. 4:28 p.m. 6:23 p.m. 6:38 p.m. 11:06 a.m. AA-431-MIA-SFO 2:46 p.m. 8:52 a.m. UA-828-SFO-ORD
+flights 9:05 a.m. 11:30 a.m. 10:20 a.m. 6:44 p.m. 1:27 p.m. 7:35 a.m. UA-382-IAD-LAX AA-1007-MIA-PHX 11:52 a.m.
+businesstravellogue UA-938-DEN-ORD 4:16 p.m. 4:15 p.m. missing 7:36 p.m. 8:02 a.m. 12:55 p.m. 5:43 p.m. AA-466-IAH-MIA
+flylouisville AA-2268-PHX-ORD 7:15 a.m. 7:22 a.m. 11:35 a.m. 11:06 a.m. AA-1522-SFO-ORD 8:35 a.m. UA-382-IAD-LAX 10:45 a.m. 2:48 p.m.
+helloflight AA-3-JFK-LAX 12:00 p.m. 12:11 p.m. 3:15 p.m. 3:16 p.m. 8:25 p.m. 4:48 p.m. ua mia
+boston UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. 8:51 a.m. 7:39 p.m. UA-3515-IAD-MSP 6:45 p.m. 8:40 a.m.
+flightaware 8:23 p.m. 4:16 p.m. 4:15 p.m. missing 4:29 p.m. 9:13 a.m. 10:29 p.m. 12:13 p.m. 10:39 a.m.
+flightexplorer CO-63-EWR-IAH 5:25 p.m. 5:22 p.m. 8:22 p.m. 8:03 p.m. AA-3756-ORD-SLC 4:05 p.m. 8:02 a.m. 6:28 p.m.
+flightarrival 6:00 a.m. 8:35 a.m. 8:51 a.m. 11:50 a.m. 11:44 a.m. flightstats allegiantair flightarrival 4:55 p.m.
+flylouisville AA-2050-ORD-MIA 10:40 a.m. 11:05 a.m. 2:45 p.m. 2:46 p.m. 1:27 p.m. AA-484-DFW-MIA 11:25 p.m. 8:55 a.m.
+panynj UA-2314-ATL-PHL <UNK> <UNK> 5:00 p.m. AA-484-DFW-MIA flytecomm 9:40 a.m. 8:00 a.m. UA-233-LAX-JFK
+orbitz UA-938-DEN-ORD 4:16 p.m. 4:15 p.m. 7:35 p.m. 7:36 p.m. 8:05 p.m. AA-1886-BOS-MIA CO-1088-CLE-IAH 2:20 p.m.
+myrateplan AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. 6:38 p.m. 10:40 a.m. CO-16-LAX-EWR 6:44 p.m.
+helloflight UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. 3:50 p.m. 4:12 p.m. UA-414-LAX-SFO 10:47 a.m.
+aa AA-1165-JFK-MIA 6:59 a.m. 7:22 a.m. 10:34 a.m. 10:04 a.m. 10:18 a.m. AA-1886-BOS-MIA 2:15 p.m. 3:35 p.m.
+myrateplan AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. 12:11 p.m. 1:40 p.m. 5:56 a.m. 4:47 p.m.
+CO AA-518-MIA-JFK 6:40 a.m. 6:54 a.m. 9:25 a.m. 9:28 a.m. flightwise 4:44 p.m. 8:00 p.m. 8:04 a.m. AA-1279-DFW-PHX
+mytripandmore CO-45-EWR-MIA 4:00 p.m. 3:58 p.m. 7:05 p.m. 6:36 p.m. AA-222-LAX-BOS 10:27 a.m. allegiantair CO-50-CLE-EWR
+helloflight UA-2830-MCO-CLT 3:27 p.m. 3:27 p.m. 5:05 p.m. 5:17 p.m. CO-1193-EWR-MCO AA-1434-DFW-MCO AA-1640-MIA-MCO 4:09 p.m. 7:30 a.m.
+helloflight CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. 3:30 p.m. AA-3859-IAH-ORD 3:11 a.m. AA-484-DFW-MIA
+flylouisville AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:01 a.m. 2:59 p.m. 3:04 p.m. 8:05 p.m. AA-404-MIA-MCO 11:12 a.m. AA-1434-DFW-MCO
+panynj UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. 8:35 a.m. 10:19 a.m. 11:12 a.m. flightarrival AA-446-DFW-PHL
+flylouisville AA-3-JFK-LAX 12:00 p.m. 12:11 p.m. 3:15 p.m. 3:16 p.m. CO-1193-EWR-MCO 8:29 a.m. 7:05 a.m. AA-1434-DFW-MCO 11:01 a.m.
+quicktrip AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. AA-649-ORD-SNA 4:44 p.m. 10:18 a.m. 4:23 p.m. AA-3063-SLC-LAX
+gofox AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. 2:50 p.m. 7:58 p.m. UA-664-ORD-PHL 11:25 a.m.
+world-flight-tracker UA-2726-FLL-PHL 4:00 p.m. 4:00 p.m. 6:46 p.m. 6:28 p.m. 8:40 a.m. 6:30 p.m. mytripandmore AA-3979-CVG-ORD
+flightarrival AA-1007-MIA-PHX 4:55 p.m. 5:08 p.m. 8:05 p.m. 7:55 p.m. UA-3515-IAD-MSP 8:02 a.m. CO-1193-EWR-MCO helloflight
+quicktrip AA-3-JFK-LAX 12:00 p.m. 12:11 p.m. 3:15 p.m. 3:16 p.m. 7:55 a.m. 11:56 a.m. AA-789-ORD-DEN 3:50 p.m.
+myrateplan UA-3925-IAD-ORF 8:41 a.m. 8:42 a.m. 9:54 a.m. 9:43 a.m. AA-1434-DFW-MCO mco 6:46 p.m. 2:48 p.m. 6:28 p.m.
+flightaware UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. 11:10 a.m. 5:55 p.m. 6:23 p.m. 11:53 a.m.
+quicktrip AA-2050-ORD-MIA 10:40 a.m. 11:01 a.m. missing 10:25 a.m. AA-4344-ORD-DTW 4:09 p.m. CO-4888-IAH-DAL 8:56 a.m.
+allegiantair AA-3-JFK-LAX 12:00 p.m. 12:11 p.m. 3:15 p.m. 3:16 p.m. 10:47 a.m. error3 4:05 p.m. 10:34 a.m. 2:27 p.m.
+gofox AA-59-JFK-SFO 12:30 p.m. error2 3:30 p.m. 3:14 p.m. 9:45 a.m. 2:25 p.m. 2:45 p.m. UA-2515-DFW-CLT AA-2050-ORD-MIA
+allegiantair AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. 7:15 a.m. flylouisville 1:16 p.m. CO-1023-IAH-DEN
+ord UA-37-EDI-EWR 9:05 a.m. missing 12:09 p.m. 6:46 p.m. AA-3842-MSP-ORD AA-415-BOS-ORD usatoday CO-45-EWR-MIA
+allegiantair AA-446-DFW-PHL 11:50 a.m. 11:50 a.m. 3:50 p.m. 4:09 p.m. AA-649-ORD-SNA 3:36 p.m. 1:14 p.m. CO-52-IAH-LAX
+airtravelcenter UA-248-PHX-ORD 12:57 p.m. 1:32 p.m. 5:15 p.m. 5:34 p.m. gofox 6:45 a.m. error4 1:17 p.m.
+aa CO-1614-LAX-IAH 12:30 a.m. 12:41 a.m. 5:35 a.m. 5:26 a.m. CO-1023-IAH-DEN 6:34 p.m. gofox 11:35 a.m.
+ifly AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:19 a.m. 9:28 a.m. AA-3756-ORD-SLC 5:55 p.m. 12:35 p.m.
+world-flight-tracker error1 9:15 a.m. missing error1 6:38 p.m. 9:45 a.m. AA-431-MIA-SFO 2:26 p.m. UA-37-EDI-EWR
+businesstravellogue AA-3468-CVG-MIA 7:00 a.m. 7:25 a.m. 9:55 a.m. 9:45 a.m. 9:25 a.m. 5:43 p.m. 4:00 p.m. 7:10 p.m. AA-271-MIA-LAX
+businesstravellogue UA-382-IAD-LAX 12:30 p.m. 12:35 p.m. 3:19 p.m. 3:21 p.m. 11:08 p.m. AA-2268-PHX-ORD 6:00 a.m. 12:41 p.m. 6:56 a.m.
+helloflight 11:55 a.m. 4:25 p.m. 11:50 a.m. 12:29 a.m. travelocity 4:00 p.m. 8:51 a.m. 7:39 p.m. 10:10 a.m.
+flightexplorer AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. 7:49 a.m. 4:17 p.m. 5:26 a.m. 6:43 p.m.
+orbitz AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. 6:34 p.m. 4:00 p.m. AA-431-MIA-SFO 1:00 p.m.
+quicktrip AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. flylouisville travelocity 8:02 a.m. UA-2704-DTW-PHX
+quicktrip AA-4277-CVG-JFK 12:10 p.m. 12:10 p.m. 2:15 p.m. 1:43 p.m. 12:11 p.m. 9:24 a.m. 8:00 a.m. 8:51 a.m.
+weather CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. helloflight 7:14 p.m. 9:10 p.m. 9:14 a.m.
+businesstravellogue AA-222-LAX-BOS 7:10 a.m. 7:31 a.m. 3:30 p.m. 3:14 p.m. flightwise 4:25 p.m. 8:55 a.m. AA-1007-MIA-PHX
+panynj CO-16-LAX-EWR 10:25 a.m. 10:20 a.m. 6:44 p.m. 6:34 p.m. 11:25 p.m. 12:00 p.m. 12:57 p.m. 5:05 p.m.
+flylouisville UA-854-SFO-IAH 11:08 p.m. 3:50 p.m. 5:11 a.m. CO-1023-IAH-DEN 5:05 p.m. AA-2312-DFW-DTW AA-1221-MCO-ORD 6:38 p.m.
+flightarrival AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:05 a.m. 11:01 a.m. 11:35 a.m. 3:15 p.m. 7:25 p.m. 7:53 a.m.
+flightaware CO-62-IAH-EWR 2:30 p.m. 7:03 p.m. 7:10 p.m. AA-518-MIA-JFK AA-466-IAH-MIA helloflight AA-4330-CVG-ORD 4:23 p.m.
+allegiantair AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. 3:15 p.m. 8:25 p.m. 3:13 p.m. 7:10 p.m. AA-643-MIA-ORD
+gofox AA-1434-DFW-MCO 7:15 a.m. 7:21 a.m. 10:35 a.m. 10:36 a.m. flights boston 9:10 p.m. 6:15 p.m.
+flights AA-2050-ORD-MIA 10:40 a.m. 11:05 a.m. 2:45 p.m. 2:46 p.m. 1:31 p.m. 6:57 a.m. 9:15 a.m. 9:14 a.m.
+flightaware 11:50 a.m. 12:30 a.m. 12:41 a.m. 5:35 a.m. 5:26 a.m. 5:42 p.m. 6:00 a.m. AA-431-MIA-SFO 12:15 p.m.
+weather UA-414-LAX-SFO 6:00 a.m. 5:56 a.m. 7:23 a.m. 7:17 a.m. 11:01 a.m. AA-2312-DFW-DTW CO-1694-LAX-IAH 11:52 a.m.
+flights AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 9:14 a.m. CO-1614-LAX-IAH 7:51 a.m. 8:55 a.m. 10:56 a.m. den
+weather AA-4277-CVG-JFK 12:10 p.m. 12:10 p.m. 2:15 p.m. 1:43 p.m. boston 11:32 a.m. 7:14 p.m. 12:15 a.m.
+boston UA-62-IAH-EWR 2:30 p.m. 2:48 p.m. 7:03 p.m. 7:10 p.m. 1:00 p.m. usatoday flightwise 8:12 a.m.
+aa AA-1221-MCO-ORD 8:00 p.m. 8:23 p.m. 6:38 p.m. AA-204-LAX-MCO 5:25 p.m. 1:27 p.m. 9:45 p.m. flights
+panynj AA-1279-DFW-PHX 1:00 p.m. 2:04 p.m. 2:35 p.m. 3:30 p.m. 4:17 p.m. 7:55 a.m. 5:30 p.m. quicktrip
+businesstravellogue AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. CO-45-EWR-MIA panynj 4:09 p.m. usatoday
+helloflight UA-37-EWR-MCO 1:29 p.m. 1:48 p.m. 4:17 p.m. 4:17 p.m. 7:10 p.m. 9:20 p.m. 8:39 p.m. 10:04 a.m.
+travelocity UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. 12:29 a.m. 3:21 p.m. 12:13 p.m. 5:35 a.m. 10:36 a.m. CO-47-IAH-LAX
+world-flight-tracker missing 11:01 a.m. missing 9:14 a.m. UA-2945-PHL-CLT CO-52-IAH-LAX 10:54 a.m. 1:05 p.m. UA-233-LAX-JFK
+orbitz AA-3823-LAX-DEN 9:00 p.m. 9:00 p.m. 12:15 a.m. 12:15 a.m. UA-2830-MCO-CLT 12:15 p.m. UA-3373-IAD-PHL 7:55 p.m.
+foxbusiness UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. 3:16 p.m. 2:26 p.m. 11:40 a.m. panynj <S>
+flightview UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. 6:15 p.m. 4:05 p.m. 2:46 p.m. 10:45 a.m. AA-2312-DFW-DTW
+gofox AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. AA-1733-ORD-PHX 10:35 a.m. 11:55 p.m. 3:50 p.m.
+usatoday AA-222-LAX-BOS 7:10 a.m. 7:31 a.m. 3:30 p.m. 3:14 p.m. 12:09 p.m. 7:55 p.m. AA-4307-ORD-DTW UA-664-ORD-PHL 2:44 p.m.
+foxbusiness AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. error5 2:59 p.m. 12:15 p.m. 11:01 a.m.
+businesstravellogue AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. 9:32 a.m. 4:25 p.m. 12:41 a.m. 7:00 p.m. 7:27 a.m.
+allegiantair AA-1165-JFK-MIA 12:57 p.m. 1:32 p.m. 8:22 p.m. 11:21 a.m. 5:26 p.m. 6:10 a.m. 8:25 p.m. 11:25 p.m.
+businesstravellogue UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. AA-2312-DFW-DTW 7:00 a.m. 8:39 p.m. 8:15 a.m. 7:21 a.m.
+flightaware AA-204-LAX-MCO 11:25 p.m. 11:25 p.m. 6:55 a.m. 6:55 a.m. 9:15 a.m. 8:51 a.m. 3:58 p.m. 4:59 p.m.
+flightview UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. CO-1193-EWR-MCO <UNK> AA-4344-ORD-DTW 6:59 a.m.
+flightarrival CO-1614-LAX-IAH 12:30 a.m. 12:41 a.m. 5:35 a.m. 5:26 a.m. 12:10 p.m. 6:00 a.m. 8:56 a.m. 3:43 p.m. 12:30 a.m.
+orbitz AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. CO-4888-IAH-DAL 8:53 p.m. CO-50-CLE-EWR 10:55 a.m. UA-3925-IAD-ORF
+flights error3 7:05 a.m. error1 11:32 a.m. 11:05 a.m. flights 7:51 a.m. 7:25 a.m. 9:13 a.m.
+flytecomm CO-1561-PHX-IAH 8:05 a.m. 8:00 a.m. 11:35 a.m. 11:32 a.m. AA-616-DFW-DTW 7:58 p.m. 8:56 p.m. 7:40 a.m. AA-3756-ORD-SLC
+aa AA-404-MIA-MCO 8:35 a.m. 8:12 a.m. 10:06 a.m. flightstats error4 8:00 a.m. 7:15 a.m. ord
+aa AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. UA-382-IAD-LAX wunderground 12:18 p.m. AA-404-MIA-MCO
+orbitz UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. myrateplan 7:03 p.m. UA-858-PVG-SFO 6:15 p.m. 12:15 a.m.
+flights AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. 10:35 a.m. 3:36 p.m. flytecomm AA-789-ORD-DEN
+flightarrival UA-3925-IAD-ORF 8:41 a.m. 8:41 a.m. 8:42 a.m. 9:54 a.m. 7:55 p.m. CO-45-EWR-MIA 11:55 p.m. 2:15 p.m.
+boston AA-3786-IAH-ORD 4:00 p.m. 4:12 p.m. 6:40 p.m. 6:15 p.m. 5:42 p.m. 6:46 p.m. 9:53 p.m. flights 9:53 p.m.
+world-flight-tracker AA-3979-CVG-ORD 7:30 a.m. 8:04 a.m. 8:00 a.m. AA-1886-BOS-MIA error5 7:45 p.m. mytripandmore 3:43 p.m.
+boston AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. AA-1733-ORD-PHX AA-4344-ORD-DTW 1:29 p.m. 3:04 p.m. 3:58 p.m.
+panynj CO-50-CLE-EWR <UNK> 3:31 p.m. 4:49 p.m. 5:26 p.m. UA-62-IAH-EWR 11:25 p.m. 7:31 a.m. 5:05 p.m. 11:55 p.m.
+flightexplorer AA-1886-BOS-MIA 10:45 a.m. 10:55 a.m. 4:56 p.m. 6:40 p.m. 10:35 a.m. AA-59-JFK-SFO 11:45 a.m. UA-3515-IAD-MSP
+businesstravellogue AA-518-MIA-JFK 6:40 a.m. 6:54 a.m. 9:25 a.m. 9:28 a.m. 10:40 a.m. 5:34 p.m. AA-85-JFK-SFO AA-1221-MCO-ORD UA-62-IAH-EWR
+aa AA-1664-MIA-ATL 10:15 a.m. missing 10:18 a.m. 12:10 p.m. 11:56 a.m. 7:53 a.m. 2:44 p.m. flytecomm 2:00 p.m.
+aa AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. 1:30 p.m. den 10:06 a.m. 12:21 a.m.
+world-flight-tracker UA-37-EWR-MCO 1:29 p.m. 1:48 p.m. 4:17 p.m. 4:17 p.m. AA-649-ORD-SNA 12:30 a.m. AA-649-ORD-SNA UA-2708-EWR-CLT
+ua UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. AA-3859-IAH-ORD 6:45 a.m. 4:23 p.m. 7:22 a.m.
+allegiantair UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. AA-404-MIA-MCO 3:11 a.m. UA-2726-FLL-PHL foxbusiness
+flights AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:19 a.m. gofox 12:21 a.m. 7:14 p.m. 9:21 a.m. 4:31 p.m.
+myrateplan UA-938-DEN-ORD 4:16 p.m. 4:15 p.m. 7:35 p.m. 7:36 p.m. AA-649-ORD-SNA 6:38 p.m. foxbusiness CO-4888-IAH-DAL
+flightaware UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. error1 4:12 p.m. AA-1221-MCO-ORD 3:04 p.m. 8:00 a.m.
+allegiantair AA-3468-CVG-MIA 7:00 a.m. 7:25 a.m. 9:55 a.m. 9:45 a.m. 4:25 p.m. 3:15 p.m. dfw phl
+businesstravellogue AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. 8:02 a.m. 10:34 a.m. 2:27 p.m. 2:04 p.m. AA-1664-MIA-ATL
+flights AA-1544-SAN-ORD 11:25 a.m. 11:40 a.m. 5:25 p.m. 4:56 p.m. 9:16 a.m. 7:25 p.m. 10:40 a.m. 9:56 a.m.
+businesstravellogue AA-1165-JFK-MIA 6:59 a.m. 7:22 a.m. 10:34 a.m. 10:04 a.m. 3:43 p.m. 2:46 p.m. 1:31 p.m. 8:15 a.m.
+flytecomm UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. mia 2:30 p.m. 12:30 p.m. 2:48 p.m.
+flightexplorer AA-1917-JFK-MCO <UNK> 11:08 p.m. 5:11 a.m. 5:11 a.m. 2:46 p.m. flights 7:25 p.m. 9:13 a.m.
+flightaware UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. businesstravellogue 9:20 p.m. AA-204-LAX-MCO 9:56 a.m.
+boston CO-1614-LAX-IAH 12:30 a.m. 12:41 a.m. 5:35 a.m. 5:26 a.m. CO-63-EWR-IAH 7:00 a.m. 7:21 a.m. 10:35 a.m. 5:42 p.m.
+weather UA-664-ORD-PHL 1:33 p.m. 3:01 p.m. 4:48 p.m. 5:35 a.m. AA-404-MIA-MCO 5:05 p.m. 11:25 a.m. UA-2945-PHL-CLT
+boston UA-414-LAX-SFO 6:00 a.m. 5:56 a.m. 7:23 a.m. 7:17 a.m. 7:00 p.m. 5:34 p.m. 2:00 p.m. 6:36 p.m. 1:40 p.m.
+allegiantair CO-89-IAH-EWR 6:00 a.m. 6:02 a.m. 10:20 a.m. 10:27 a.m. 6:08 a.m. 9:25 a.m. CO 7:05 a.m.
+flightexplorer CO-47-IAH-LAX 7:10 p.m. 8:25 p.m. 8:56 p.m. 9:52 p.m. 11:45 a.m. 6:36 p.m. dfw 12:10 p.m.
+allegiantair UA-1500-IAH-GUA 8:55 a.m. 9:16 a.m. 11:45 a.m. 11:56 a.m. CO-50-CLE-EWR 8:42 a.m. flightaware 2:48 p.m.
+ua CO-50-CLE-EWR <UNK> 3:31 p.m. 4:49 p.m. 5:26 p.m. 9:54 a.m. AA-1544-SAN-ORD 4:47 p.m. iad
+wunderground CO-4888-IAH-DAL 5:30 p.m. 5:30 p.m. 6:40 p.m. 6:40 p.m. UA-248-PHX-ORD 11:01 a.m. 7:30 a.m. AA-3756-ORD-SLC
+foxbusiness AA-1733-ORD-PHX 7:45 p.m. 7:58 p.m. 10:30 p.m. 10:30 p.m. 1:30 p.m. AA-2050-ORD-MIA 5:34 p.m. AA-1221-MCO-ORD CO-1088-CLE-IAH
+airtravelcenter UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. flightstats CO-62-IAH-EWR AA-4344-ORD-DTW 12:30 a.m. 5:25 p.m.
+flights AA-518-MIA-JFK 6:19 a.m. missing 7:23 a.m. CO-1614-LAX-IAH ord 11:55 p.m. 3:15 p.m.
+airtravelcenter helloflight 11:01 a.m. missing error2 9:40 a.m. 6:40 p.m. 5:00 p.m. flylouisville 9:20 a.m.
+airtravelcenter AA-2312-DFW-DTW 8:25 p.m. 8:25 p.m. 8:56 p.m. 11:50 p.m. CO-1561-PHX-IAH 6:57 a.m. 12:00 a.m. 4:16 p.m.
+flights UA-2830-MCO-CLT 3:27 p.m. 3:27 p.m. 5:05 p.m. 5:17 p.m. 10:40 a.m. 8:56 a.m. 8:53 p.m. 7:23 a.m. 9:32 a.m.
+airtravelcenter AA-1664-MIA-ATL 10:15 a.m. 10:18 a.m. 12:10 p.m. 11:56 a.m. 7:17 a.m. error3 7:15 a.m. allegiantair
+myrateplan UA-257-JFK-SFO 2:30 p.m. 2:26 p.m. 6:15 p.m. 5:42 p.m. UA-382-IAD-LAX 8:05 a.m. 9:56 a.m. boston
+helloflight UA-37-EWR-MCO 1:29 p.m. 1:48 p.m. 4:17 p.m. 4:17 p.m. flightstats 11:15 a.m. 7:30 a.m. missing
+myrateplan AA-3859-IAH-ORD 7:10 a.m. 7:16 a.m. 9:40 a.m. 9:32 a.m. 9:00 p.m. UA-843-LAX-ORD 11:40 a.m. 7:39 p.m. 8:03 p.m.
+myrateplan AA-3063-SLC-LAX 8:20 p.m. 8:39 p.m. 9:20 p.m. 9:20 p.m. 7:39 a.m. 7:15 a.m. AA-3859-IAH-ORD AA-2525-DFW-MIA
+usatoday CO-1586-IAH-MCO 7:00 p.m. 7:14 p.m. 10:15 p.m. 10:29 p.m. 5:05 p.m. 8:56 p.m. 10:04 a.m. AA-204-LAX-MCO AA-1544-SAN-ORD
+aa UA-3373-IAD-PHL 8:29 a.m. 8:26 a.m. 9:24 a.m. 9:13 a.m. 4:49 p.m. 8:22 p.m. 3:43 p.m. dfw usatoday 6:36 p.m.
+myrateplan AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. helloflight CO-45-EWR-MIA 11:12 a.m. CO-89-IAH-EWR
+flightaware UA-843-LAX-ORD 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. 5:17 p.m. 3:14 p.m. AA-4198-ORD-CLE 8:04 a.m.
+ua AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:19 a.m. 4:00 p.m. 7:53 p.m. helloflight 12:12 p.m.
+ord AA-1165-JFK-MIA 6:59 a.m. 7:22 a.m. 10:34 a.m. 10:04 a.m. 8:39 p.m. AA-1221-MCO-ORD AA-2312-DFW-DTW AA-3786-IAH-ORD 4:53 p.m.
+weather error4 4:00 p.m. 6:46 p.m. 6:28 p.m. 7:22 a.m. 4:15 p.m. AA-518-MIA-JFK 7:25 p.m. AA-1434-DFW-MCO
+businesstravellogue UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. 8:42 a.m. 3:30 p.m. 5:55 p.m. UA-37-EDI-EWR
+usatoday UA-382-IAD-LAX 12:30 p.m. 12:35 p.m. 3:19 p.m. 3:21 p.m. foxbusiness 5:08 p.m. AA-1221-MCO-ORD 2:35 p.m. AA-1733-ORD-PHX
+flightaware UA-248-PHX-ORD 12:57 p.m. 1:32 p.m. 5:15 p.m. 5:34 p.m. AA-3809-PHX-LAX 4:12 p.m. AA-4198-ORD-CLE 12:57 p.m.
+aa CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. CO-47-IAH-LAX 8:20 p.m. travelocity 8:39 p.m. 1:32 p.m.
+<UNK> UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. AA-4330-CVG-ORD 8:20 p.m. 4:31 p.m. 10:31 a.m. 1:17 p.m. 1:14 p.m.
+weather UA-828-SFO-ORD 11:08 p.m. 11:08 p.m. 5:11 a.m. 11:10 a.m. 7:39 p.m. UA-2515-DFW-CLT AA-1221-MCO-ORD 8:26 a.m. AA-2312-DFW-DTW
+sfo AA-415-BOS-ORD 8:35 a.m. 8:56 a.m. 10:40 a.m. 10:16 a.m. UA-397-JFK-SFO 9:13 a.m. 11:55 p.m. 2:45 p.m.
+world-flight-tracker AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:05 a.m. 11:01 a.m. 11:12 a.m. 10:19 a.m. 11:50 a.m. AA-1434-DFW-MCO 11:45 a.m.
+helloflight 8:35 a.m. 8:56 a.m. 10:40 a.m. 10:16 a.m. 4:55 p.m. 11:08 p.m. 9:32 a.m. 1:32 p.m. dfw
+flylouisville AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. AA-1522-SFO-ORD AA-1664-MIA-ATL 10:54 a.m. 12:09 p.m. 3:01 p.m.
+businesstravellogue CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. UA-2704-DTW-PHX 6:23 p.m. AA-1886-BOS-MIA UA-414-LAX-SFO
+flytecomm UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. 11:12 a.m. 10:06 a.m. AA-400-DFW-JFK CO-1250-MIA-IAH
+world-flight-tracker UA-382-IAD-LAX 12:30 p.m. 12:35 p.m. 3:19 p.m. 3:21 p.m. 8:26 a.m. 8:35 a.m. 7:30 a.m. 10:33 a.m. 11:30 a.m.
+flights UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. wunderground 1:45 p.m. 4:12 p.m. 12:21 a.m.
+travelocity CO-4888-IAH-DAL 5:30 p.m. 5:30 p.m. 6:40 p.m. 6:40 p.m. UA-37-EDI-EWR 5:11 a.m. 9:40 a.m. 10:06 a.m.
+orbitz AA-1434-DFW-MCO UA-664-ORD-PHL missing 2:25 p.m. 5:26 a.m. 8:20 p.m. 2:10 p.m. 4:15 p.m. error2
+weather AA-1640-MIA-MCO 6:30 p.m. 6:30 p.m. 7:25 p.m. 7:25 p.m. 12:10 p.m. AA-466-IAH-MIA businesstravellogue world-flight-tracker
+airtravelcenter AA-3979-CVG-ORD 7:30 a.m. 8:04 a.m. 8:00 a.m. 8:06 a.m. UA-397-JFK-SFO 4:53 p.m. error4 7:30 a.m.
+businesstravellogue CO-45-EWR-MIA 3:58 p.m. 7:05 p.m. 6:36 p.m. 7:03 p.m. 5:05 p.m. 4:48 p.m. 11:52 a.m. AA-3842-MSP-ORD
+flightaware AA-400-DFW-JFK 10:40 a.m. 11:01 a.m. 2:59 p.m. 3:04 p.m. 7:21 a.m. AA-431-MIA-SFO 8:25 p.m. 7:00 p.m. quicktrip
+mytripandmore AA-1664-MIA-ATL 10:15 a.m. 10:18 a.m. 12:10 p.m. 11:56 a.m. 7:35 p.m. 5:26 a.m. 3:11 a.m. CO-1586-IAH-MCO 11:52 a.m.
+flights AA-3842-MSP-ORD 6:00 a.m. 6:56 a.m. 7:30 a.m. 7:51 a.m. 8:25 p.m. allegiantair AA-616-DFW-DTW aa
+flytecomm AA-4330-CVG-ORD 3:35 p.m. 3:36 p.m. 4:00 p.m. 3:33 p.m. 8:05 p.m. 12:30 a.m. 3:36 p.m. 7:49 a.m.
+flights AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. CO-16-LAX-EWR foxbusiness 1:32 p.m. 10:47 a.m.
+orbitz AA-415-BOS-ORD 8:35 a.m. 8:35 a.m. 8:56 a.m. 10:40 a.m. 10:16 a.m. AA-3-JFK-LAX 2:50 p.m. 7:53 p.m. error1
+mytripandmore AA-3979-CVG-ORD error2 8:04 a.m. 8:00 a.m. 8:06 a.m. myrateplan 6:45 a.m. 8:20 p.m. CO-1561-PHX-IAH 5:56 a.m.
+flytecomm UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. 10:16 a.m. AA-3809-PHX-LAX AA-2268-PHX-ORD 8:51 a.m.
+orbitz UA-62-IAH-EWR 2:30 p.m. 2:48 p.m. 7:03 p.m. 7:10 p.m. UA-828-SFO-ORD 6:55 p.m. 6:34 p.m. 9:35 a.m.
+myrateplan AA-1522-SFO-ORD 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. 5:50 a.m. CO-4888-IAH-DAL 12:10 p.m. CO-1090-BOS-IAH 3:31 p.m.
+businesstravellogue UA-2945-PHL-CLT 12:00 a.m. 3:11 a.m. 1:45 p.m. 1:15 p.m. world-flight-tracker 10:54 a.m. 11:15 a.m. 8:15 a.m.
+helloflight UA-2314-ATL-PHL <UNK> <UNK> error5 12:21 a.m. 10:35 a.m. CO-89-IAH-EWR 10:33 a.m. airtravelcenter
+flytecomm CO-62-IAH-EWR 2:30 p.m. 2:48 p.m. 7:03 p.m. 5:42 p.m. 12:12 p.m. 7:58 p.m. 7:14 p.m. 10:29 p.m. 7:58 p.m.
+flightview AA-3063-SLC-LAX 8:20 p.m. 8:39 p.m. 9:20 p.m. 9:20 p.m. 10:18 a.m. error2 9:45 p.m. AA-3-JFK-LAX
+quicktrip flightstats 8:29 a.m. missing 9:24 a.m. 9:13 a.m. AA-643-MIA-ORD 12:15 a.m. 11:55 p.m. AA-3979-CVG-ORD
+flightview UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. 7:39 p.m. 3:50 p.m. 11:01 a.m. 2:27 p.m.
+myrateplan UA-2515-DFW-CLT 7:05 a.m. 7:05 a.m. 10:31 a.m. 10:47 a.m. 4:47 p.m. AA-1221-MCO-ORD 12:09 p.m. UA-828-SFO-ORD 9:00 p.m.
+weather UA-414-LAX-SFO 6:00 a.m. 5:56 a.m. 7:23 a.m. 7:17 a.m. mytripandmore 9:16 a.m. 6:08 a.m. 5:55 p.m.
+gofox UA-1500-IAH-GUA 8:55 a.m. 9:16 a.m. 11:45 a.m. 11:56 a.m. AA-431-MIA-SFO 1:43 p.m. AA-431-MIA-SFO 12:50 p.m.
+flylouisville CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. 7:00 p.m. 5:22 p.m. 9:52 p.m. 7:10 a.m. businesstravellogue
+flightexplorer AA-1917-JFK-MCO <UNK> 3:27 p.m. 5:55 p.m. 5:43 p.m. UA-828-SFO-ORD 11:58 a.m. weather 3:27 p.m.
+world-flight-tracker CO-50-CLE-EWR <UNK> 3:31 p.m. 4:49 p.m. 5:26 p.m. 8:03 p.m. 1:40 p.m. AA-466-IAH-MIA 9:00 p.m.
+weather AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. 11:25 a.m. wunderground 9:00 p.m. AA-1664-MIA-ATL
+flytecomm AA-2525-DFW-MIA 7:25 a.m. 9:14 a.m. error1 8:06 a.m. 7:36 p.m. 5:05 p.m. 4:28 p.m. 11:55 a.m.
+helloflight CO-63-EWR-IAH 5:25 p.m. 5:22 p.m. 8:22 p.m. 8:03 p.m. 11:35 a.m. <S> 3:05 p.m. 6:54 a.m.
+flightarrival UA-2515-DFW-CLT 7:05 a.m. 7:05 a.m. 10:31 a.m. 10:47 a.m. UA-3515-IAD-MSP 5:56 a.m. flytecomm 7:05 p.m. AA-1733-ORD-PHX
+helloflight UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. CO-52-IAH-LAX 3:15 p.m. businesstravellogue 12:00 a.m.
+flights AA-2050-ORD-MIA 10:40 a.m. 10:40 a.m. 2:45 p.m. 2:46 p.m. 1:55 p.m. UA-938-DEN-ORD AA-4330-CVG-ORD 4:44 p.m.
+mytripandmore UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. 8:52 a.m. iad 3:16 p.m. CO-1561-PHX-IAH
+businesstravellogue AA-1221-MCO-ORD 8:00 p.m. 8:23 p.m. 9:45 p.m. 9:53 p.m. 12:13 p.m. 12:11 p.m. 12:13 p.m. UA-3099-PHX-PHL missing
+flightstats AA-2050-ORD-MIA 10:40 a.m. 11:05 a.m. 2:45 p.m. 2:46 p.m. 7:45 a.m. AA-3756-ORD-SLC 6:40 p.m. 10:39 a.m.
+helloflight UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. flightview 8:26 a.m. 8:40 a.m. AA-3468-CVG-MIA world-flight-tracker
+helloflight AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:19 a.m. 11:44 a.m. AA-518-MIA-JFK sfo AA-643-MIA-ORD 7:15 a.m.
+phl CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. UA-938-DEN-ORD missing 11:25 a.m. 9:25 a.m.
+flytecomm UA-858-PVG-SFO 1:45 p.m. 1:32 p.m. 8:27 a.m. 8:02 a.m. AA-466-IAH-MIA 7:45 p.m. AA-1221-MCO-ORD 9:05 a.m. 1:14 p.m.
+flightstats AA-404-MIA-MCO 6:45 a.m. 6:57 a.m. 7:45 a.m. 7:40 a.m. 9:45 a.m. 7:17 a.m. 10:27 a.m. CO-1090-BOS-IAH
+airtravelcenter AA-1664-MIA-ATL 10:15 a.m. 10:18 a.m. 12:10 p.m. 11:56 a.m. 4:44 p.m. weather missing 4:47 p.m.
+helloflight CO-45-EWR-MIA 4:00 p.m. 3:58 p.m. 7:05 p.m. 6:36 p.m. 5:34 p.m. 2:35 p.m. 6:08 a.m. 2:44 p.m.
+flytecomm AA-4330-CVG-ORD 3:35 p.m. 3:36 p.m. 4:00 p.m. 3:33 p.m. 12:55 p.m. 2:35 p.m. 5:42 p.m. 7:00 a.m. 3:04 p.m.
+world-flight-tracker UA-2515-DFW-CLT 7:05 a.m. 7:05 a.m. 10:31 a.m. 10:47 a.m. ua CO-63-EWR-IAH 1:00 p.m. 6:00 a.m.
+orbitz AA-2268-PHX-ORD 7:15 a.m. 7:22 a.m. 11:35 a.m. 11:06 a.m. 11:32 a.m. CO-1090-BOS-IAH AA-3859-IAH-ORD AA-466-IAH-MIA
+aa AA-3979-CVG-ORD 7:30 a.m. 8:04 a.m. 8:00 a.m. 8:06 a.m. 6:30 p.m. AA-3979-CVG-ORD 4:00 p.m. CO-1250-MIA-IAH
+allegiantair AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. 7:53 p.m. 1:00 p.m. 10:29 p.m. 11:19 a.m.
+aa AA-1522-SFO-ORD 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. UA-1500-IAH-GUA 11:55 p.m. AA-1664-MIA-ATL AA-2312-DFW-DTW
+flightstats UA-382-IAD-LAX 12:30 p.m. 12:35 p.m. 3:19 p.m. 3:21 p.m. 2:59 p.m. 9:16 a.m. 1:55 p.m. 2:50 p.m.
+gofox UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. AA-3756-ORD-SLC 4:23 p.m. 2:53 p.m. 9:21 a.m. UA-2704-DTW-PHX
+myrateplan UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. 5:08 p.m. 2:48 p.m. boston 7:21 a.m.
+flightexplorer AA-1664-MIA-ATL 10:15 a.m. 10:18 a.m. 12:10 p.m. 11:56 a.m. 3:11 a.m. 4:44 p.m. CO-16-LAX-EWR 5:15 p.m. 12:09 p.m.
+flightexplorer AA-3979-CVG-ORD error2 8:04 a.m. 8:00 a.m. 8:06 a.m. flightstats 8:04 a.m. AA-4307-ORD-DTW 11:25 p.m. AA-59-JFK-SFO
+panynj AA-649-ORD-SNA 3:31 p.m. 1:30 p.m. 3:50 p.m. 6:02 a.m. 7:00 a.m. 11:58 a.m. flightexplorer UA-3373-IAD-PHL
+panynj AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. 4:56 p.m. 6:28 p.m. 6:43 p.m. mytripandmore
+businesstravellogue CO-4888-IAH-DAL 5:30 p.m. 5:30 p.m. 6:40 p.m. 6:40 p.m. 1:45 p.m. AA-2050-ORD-MIA 7:53 a.m. 10:29 p.m.
+mytripandmore AA-649-ORD-SNA 1:30 p.m. 1:30 p.m. 3:50 p.m. 3:50 p.m. AA-616-DFW-DTW 10:36 a.m. travelocity error2 8:56 a.m.
+quicktrip UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. AA-649-ORD-SNA 6:46 p.m. 1:00 p.m. 10:36 a.m.
+allegiantair AA-3804-PHL-ORD 2:35 p.m. 2:44 p.m. 4:05 p.m. 4:05 p.m. 3:43 p.m. 10:27 a.m. ua UA-6273-YYC-SFO 9:31 a.m.
+airtravelcenter UA-828-SFO-ORD 11:08 p.m. 11:08 p.m. 5:11 a.m. 7:55 a.m. AA-466-IAH-MIA AA-3756-ORD-SLC 2:10 p.m. 3:33 p.m.
+flightstats UA-248-PHX-ORD 8:00 a.m. 11:35 a.m. 8:06 a.m. AA-3859-IAH-ORD AA-1640-MIA-MCO 9:21 a.m. 10:31 a.m. AA-3468-CVG-MIA
+helloflight UA-2708-EWR-CLT <UNK> 7:15 p.m. 8:29 a.m. 11:58 a.m. 4:56 p.m. AA-1279-DFW-PHX 11:25 p.m. CO-1694-LAX-IAH
+flylouisville AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. <S> 5:30 p.m. 2:45 p.m. 9:15 a.m.
+flytecomm AA-649-ORD-SNA 1:30 p.m. 1:30 p.m. 3:50 p.m. 3:50 p.m. 9:16 a.m. 8:22 p.m. 3:31 p.m. 3:11 a.m.
+foxbusiness UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. 12:29 a.m. 11:50 a.m. 12:15 a.m. 8:20 p.m. AA-484-DFW-MIA 8:03 p.m.
+businesstravellogue UA-37-EWR-MCO 1:29 p.m. 1:48 p.m. 4:17 p.m. 4:17 p.m. AA-2525-DFW-MIA 12:30 p.m. UA-858-PVG-SFO AA-484-DFW-MIA
+boston CO-63-EWR-IAH 5:25 p.m. 5:22 p.m. 8:22 p.m. 8:03 p.m. 10:40 a.m. 6:43 p.m. UA-3515-IAD-MSP 8:22 p.m.
+allegiantair CO-62-IAH-EWR 2:30 p.m. 2:48 p.m. 7:03 p.m. 7:10 p.m. ord 1:19 p.m. 6:19 a.m. 12:15 p.m.
+flightaware CO-4888-IAH-DAL 5:30 p.m. 5:30 p.m. 6:40 p.m. 6:40 p.m. 5:05 p.m. AA-222-LAX-BOS 9:54 a.m. 11:25 a.m. 8:06 a.m.
+quicktrip 2:48 p.m. 2:30 p.m. error3 6:15 p.m. 5:42 p.m. 11:55 p.m. 7:51 a.m. UA-2830-MCO-CLT 4:00 p.m.
+wunderground 12:15 p.m. <UNK> 2:50 p.m. error2 9:05 a.m. quicktrip 11:55 p.m. 11:25 p.m. 6:36 p.m.
+flights UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. AA-4277-CVG-JFK UA-248-PHX-ORD 7:21 a.m. 9:53 p.m.
+myrateplan AA-3979-CVG-ORD 7:30 a.m. 8:04 a.m. UA-843-LAX-ORD 4:00 p.m. UA-414-LAX-SFO UA-2704-DTW-PHX 7:35 p.m.
+airtravelcenter AA-1279-DFW-PHX 1:00 p.m. 2:04 p.m. 2:35 p.m. 3:30 p.m. CO-50-CLE-EWR 2:48 p.m. 7:10 p.m. 8:05 a.m.
+allegiantair UA-37-EDI-EWR 9:05 a.m. missing 11:53 a.m. 12:09 p.m. 8:02 a.m. 1:15 p.m. UA-2515-DFW-CLT 9:00 p.m.
+flights AA-3859-IAH-ORD 7:10 a.m. 7:31 a.m. 3:30 p.m. 3:14 p.m. <UNK> 7:40 a.m. 3:58 p.m. CO-1561-PHX-IAH
+flightaware AA-222-LAX-BOS 7:10 a.m. 7:31 a.m. 3:30 p.m. 3:14 p.m. 1:43 p.m. UA-397-JFK-SFO 9:15 a.m. 10:16 a.m.
+aa UA-6273-YYC-SFO 7:35 a.m. 7:27 a.m. 9:43 a.m. 8:45 a.m. 7:39 a.m. 7:25 a.m. 5:56 a.m. 5:42 p.m. 4:55 p.m.
+flytecomm AA-222-LAX-BOS 7:10 a.m. 7:31 a.m. 3:30 p.m. 3:14 p.m. 4:15 p.m. 11:56 a.m. AA-1664-MIA-ATL CO-4888-IAH-DAL 12:41 a.m.
+mytripandmore AA-59-JFK-SFO 7:10 a.m. 7:39 a.m. 10:45 a.m. 11:12 a.m. 6:08 a.m. 11:05 a.m. 9:16 a.m. quicktrip 6:45 p.m.
+quicktrip AA-4330-CVG-ORD 3:35 p.m. 3:36 p.m. 4:00 p.m. 3:33 p.m. UA-37-EWR-MCO AA-3842-MSP-ORD 7:00 p.m. 8:25 p.m.
+helloflight CO-1561-PHX-IAH 8:05 a.m. 8:00 a.m. 11:35 a.m. 11:32 a.m. 6:19 a.m. 7:45 p.m. 7:39 p.m. airtravelcenter
+flightview AA-400-DFW-JFK 10:40 a.m. 11:01 a.m. 2:59 p.m. 3:04 p.m. 11:50 a.m. AA-59-JFK-SFO UA-1500-IAH-GUA AA-3468-CVG-MIA
+flightstats usatoday 12:30 a.m. 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. 3:27 p.m. 8:12 a.m. iad 11:56 a.m.
+businesstravellogue UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. 1:31 p.m. gofox UA-2515-DFW-CLT 9:00 p.m.
+weather CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. mytripandmore 10:36 a.m. 2:20 p.m. 11:12 a.m. 6:19 a.m.
+businesstravellogue UA-248-PHX-ORD 12:57 p.m. 1:32 p.m. 5:15 p.m. 5:34 p.m. AA-1544-SAN-ORD UA-3050-PHX-CLT 8:02 a.m. flights
+usatoday CO-1586-IAH-MCO 7:00 p.m. 7:14 p.m. 10:15 p.m. 10:29 p.m. AA-400-DFW-JFK CO-1586-IAH-MCO AA-271-MIA-LAX 9:25 a.m.
+orbitz UA-2708-EWR-CLT <UNK> 3:31 p.m. 5:55 p.m. 5:43 p.m. 5:30 p.m. AA-1007-MIA-PHX 8:22 p.m. 1:55 p.m.
+aa AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. AA-616-DFW-DTW 5:25 p.m. 11:35 a.m. 11:45 a.m.
+flightaware AA-2312-DFW-DTW 8:25 p.m. 8:25 p.m. 11:50 p.m. 11:50 p.m. 5:43 p.m. 1:45 p.m. mco 10:27 a.m.
+panynj AA-4198-ORD-CLE 10:40 a.m. 10:54 a.m. 12:55 p.m. 12:50 p.m. 1:00 p.m. CO-62-IAH-EWR flights <S> 8:02 a.m.
+flightaware CO-16-LAX-EWR 10:25 a.m. 10:20 a.m. 6:44 p.m. 6:34 p.m. 3:58 p.m. error4 4:55 p.m. allegiantair
+helloflight AA-1522-SFO-ORD 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. UA-233-LAX-JFK 2:53 p.m. AA-431-MIA-SFO error2
+flytecomm CO-1193-EWR-MCO 9:15 a.m. 9:14 a.m. 12:18 p.m. 12:09 p.m. UA-2906-PHL-MCO 7:35 a.m. AA-484-DFW-MIA 7:25 a.m. 8:00 a.m.
+flightexplorer AA-1522-SFO-ORD 11:55 p.m. 11:55 p.m. 5:50 a.m. 5:50 a.m. ord foxbusiness 11:25 a.m. 9:21 a.m.
+helloflight AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. AA-1434-DFW-MCO AA-404-MIA-MCO 12:13 p.m. 5:15 p.m. 10:35 a.m.
+weather AA-3804-PHL-ORD 2:35 p.m. 2:44 p.m. 4:05 p.m. 3:43 p.m. 9:53 p.m. 4:59 p.m. AA-204-LAX-MCO 10:47 a.m.
+flylouisville AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. flightview UA-5487-SFO-MRY 8:55 a.m. 5:43 p.m.
+myrateplan AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. 11:19 a.m. CO-1193-EWR-MCO CO-1090-BOS-IAH 10:39 a.m.
+panynj AA-1434-DFW-MCO 7:15 a.m. 7:21 a.m. 10:35 a.m. 10:36 a.m. 9:24 a.m. AA-4344-ORD-DTW missing 9:14 a.m.
+foxbusiness UA-858-PVG-SFO 1:45 p.m. 1:32 p.m. 8:27 a.m. 8:02 a.m. 4:15 p.m. 8:05 p.m. 7:00 p.m. UA-414-LAX-SFO 3:05 p.m.
+flightaware CO-1088-CLE-IAH 8:40 a.m. 8:40 a.m. 10:54 a.m. 10:56 a.m. 5:15 p.m. UA-664-ORD-PHL <S> 9:05 a.m.
+flylouisville UA-3515-IAD-MSP 8:15 a.m. 8:12 a.m. 10:06 a.m. 9:56 a.m. wunderground error2 flightexplorer 10:15 a.m.
+foxbusiness CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. CO-1250-MIA-IAH AA-1165-JFK-MIA 12:29 a.m. 12:21 a.m.
+helloflight AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. 11:32 a.m. 11:45 a.m. <UNK> 11:01 a.m.
+businesstravellogue AA-2268-PHX-ORD 7:15 a.m. 7:22 a.m. 11:35 a.m. 11:06 a.m. 3:27 p.m. AA-1640-MIA-MCO 8:03 p.m. AA-3823-LAX-DEN
+world-flight-tracker UA-854-SFO-IAH 7:53 a.m. 7:49 a.m. 1:39 p.m. 1:30 p.m. 12:57 p.m. UA-248-PHX-ORD 7:27 a.m. 6:08 a.m.
+mytripandmore 12:30 p.m. missing error2 7:51 a.m. 4:31 p.m. usatoday 4:09 p.m. 6:36 p.m. 12:12 p.m.
+orbitz UA-938-DEN-ORD 4:16 p.m. 4:15 p.m. 7:35 p.m. 7:36 p.m. 5:34 p.m. flights 9:20 p.m. 9:56 a.m.
+flylouisville AA-1733-ORD-PHX 7:45 p.m. 7:58 p.m. 10:30 p.m. 10:30 p.m. AA-3756-ORD-SLC 1:15 p.m. UA-3373-IAD-PHL 3:27 p.m.
+panynj AA-1733-ORD-PHX 7:45 p.m. 7:58 p.m. 10:30 p.m. 10:30 p.m. 10:04 a.m. myrateplan flightstats AA-3-JFK-LAX
+businesstravellogue AA-1640-MIA-MCO 6:30 p.m. 6:30 p.m. 7:25 p.m. 7:25 p.m. 6:54 a.m. 3:04 p.m. 11:58 a.m. 7:49 a.m.
+panynj AA-3859-IAH-ORD 7:10 a.m. 7:16 a.m. 9:40 a.m. 9:32 a.m. UA-6273-YYC-SFO 11:06 a.m. 7:31 a.m. 4:25 p.m.
+businesstravellogue AA-2312-DFW-DTW 8:25 p.m. 11:50 p.m. 11:50 p.m. AA-2525-DFW-MIA 10:16 a.m. AA-2312-DFW-DTW 5:05 p.m. 9:53 p.m.
+mia AA-1664-MIA-ATL 10:15 a.m. 10:18 a.m. 12:10 p.m. 11:56 a.m. AA-1007-MIA-PHX 7:55 p.m. 12:55 p.m. CO-47-IAH-LAX
+flightexplorer UA-257-JFK-SFO 2:30 p.m. 2:26 p.m. 6:15 p.m. 5:42 p.m. CO-1088-CLE-IAH AA-2050-ORD-MIA 10:56 a.m. 12:00 p.m.
+CO UA-3099-PHX-PHL 11:55 a.m. 11:55 a.m. 6:17 p.m. 5:38 p.m. allegiantair UA-3050-PHX-CLT AA-3468-CVG-MIA 5:34 p.m.
+foxbusiness AA-271-MIA-LAX 11:35 a.m. 11:52 a.m. 2:25 p.m. 2:27 p.m. 11:35 a.m. ifly 10:33 a.m. 10:39 a.m.
+flightexplorer AA-484-DFW-MIA 4:15 p.m. 4:29 p.m. 7:55 p.m. 7:39 p.m. 9:10 p.m. UA-828-SFO-ORD helloflight 7:40 a.m.
+CO AA-204-LAX-MCO 11:25 p.m. 11:25 p.m. 6:55 a.m. 6:55 a.m. 5:11 a.m. 8:03 p.m. UA-397-JFK-SFO 12:00 p.m.
+boston AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:05 a.m. 11:01 a.m. 8:35 a.m. 7:17 a.m. AA-3809-PHX-LAX 8:40 a.m.
+flights UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. 11:50 a.m. <UNK> AA-3786-IAH-ORD 11:56 a.m.
+airtravelcenter UA-2314-ATL-PHL <UNK> <UNK> 7:27 a.m. 9:43 a.m. AA-1886-BOS-MIA 12:21 a.m. 9:21 a.m. 8:12 a.m.
+boston AA-3979-CVG-ORD 9:00 p.m. 7:30 a.m. 8:04 a.m. 8:00 a.m. 8:06 a.m. 7:53 a.m. CO-50-CLE-EWR UA-1500-IAH-GUA CO-4888-IAH-DAL
+allegiantair CO-1586-IAH-MCO 7:00 p.m. 7:14 p.m. 10:15 p.m. 10:29 p.m. UA-37-EDI-EWR 8:05 a.m. AA-3842-MSP-ORD 10:15 p.m.
+flylouisville UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 11:53 a.m. 12:09 p.m. AA-1007-MIA-PHX 11:25 a.m. 2:00 p.m. dfw 7:53 a.m.
+flights UA-3099-PHX-PHL 11:55 a.m. 11:55 a.m. 6:17 p.m. 5:38 p.m. usatoday 8:00 a.m. 9:32 a.m. 8:06 a.m.
+aa AA-1007-MIA-PHX 4:55 p.m. 5:08 p.m. 8:05 p.m. 7:55 p.m. 11:40 a.m. UA-854-SFO-IAH AA-446-DFW-PHL 8:25 p.m. AA-649-ORD-SNA
+helloflight UA-3515-IAD-MSP 8:15 a.m. 8:12 a.m. 10:06 a.m. 9:56 a.m. 5:17 p.m. CO-1614-LAX-IAH phl 6:59 a.m. UA-397-JFK-SFO
+flylouisville 1:30 p.m. 4:00 p.m. 4:00 p.m. 6:46 p.m. 6:28 p.m. 4:17 p.m. AA-789-ORD-DEN error4 4:59 p.m.
+travelocity AA-415-BOS-ORD 8:35 a.m. 8:56 a.m. 10:40 a.m. 10:16 a.m. 5:34 p.m. AA-1886-BOS-MIA 11:32 a.m. UA-248-PHX-ORD
+mytripandmore AA-1221-MCO-ORD 8:00 p.m. 8:23 p.m. 9:45 p.m. 9:53 p.m. 9:52 p.m. AA-1544-SAN-ORD AA-4330-CVG-ORD 1:14 p.m. error3
+businesstravellogue 3:33 p.m. 7:29 a.m. 9:21 a.m. 9:14 a.m. 1:17 p.m. 11:35 a.m. 11:06 a.m. 4:15 p.m. 5:43 p.m.
+aa AA-3809-PHX-LAX 6:00 a.m. 6:10 a.m. 6:40 a.m. 6:19 a.m. UA-1500-IAH-GUA UA-3050-PHX-CLT 2:44 p.m. CO-4888-IAH-DAL 9:31 a.m.
+flylouisville UA-397-JFK-SFO 8:00 a.m. 8:29 a.m. 11:55 a.m. 11:58 a.m. 3:11 a.m. AA-204-LAX-MCO 3:04 p.m. AA-1544-SAN-ORD <UNK>
+wunderground AA-1434-DFW-MCO 7:15 a.m. 7:21 a.m. 10:35 a.m. 10:36 a.m. UA-858-PVG-SFO wunderground 6:55 p.m. 7:16 a.m.
+gofox CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. AA-1664-MIA-ATL AA-431-MIA-SFO 12:21 a.m. UA-6273-YYC-SFO
+mytripandmore UA-233-LAX-JFK 4:25 p.m. 12:29 a.m. 12:29 a.m. 9:31 a.m. UA-3925-IAD-ORF 1:43 p.m. CO-1193-EWR-MCO CO-1694-LAX-IAH
+flytecomm AA-204-LAX-MCO 4:00 p.m. 4:00 p.m. 6:46 p.m. 6:28 p.m. 8:26 a.m. UA-938-DEN-ORD 9:43 a.m. 10:34 a.m. 11:06 a.m.
+flytecomm AA-1279-DFW-PHX 1:00 p.m. 2:04 p.m. 2:35 p.m. 3:30 p.m. 3:30 p.m. 8:15 a.m. AA-2050-ORD-MIA AA-1165-JFK-MIA
+businesstravellogue AA-3468-CVG-MIA 7:00 a.m. 7:25 a.m. 9:55 a.m. 9:45 a.m. 2:45 p.m. 2:26 p.m. 8:40 a.m. 4:25 p.m.
+world-flight-tracker UA-2945-PHL-CLT 12:00 a.m. 3:11 a.m. 1:15 p.m. missing helloflight usatoday AA-466-IAH-MIA AA-404-MIA-MCO
+flightaware AA-59-JFK-SFO 7:10 a.m. 7:39 a.m. 10:45 a.m. 11:12 a.m. 7:15 a.m. 9:16 a.m. 5:15 p.m. 4:31 p.m.
+helloflight AA-3804-PHL-ORD 2:35 p.m. 2:44 p.m. 4:05 p.m. 7:58 p.m. 8:00 a.m. AA-431-MIA-SFO dfw 1:19 p.m.
+flightaware AA-2050-ORD-MIA 10:40 a.m. 11:05 a.m. 2:45 p.m. 2:46 p.m. 7:51 a.m. 7:45 a.m. 7:29 a.m. 11:15 a.m. 3:36 p.m.
+boston UA-828-SFO-ORD 11:08 p.m. 11:08 p.m. 5:11 a.m. 5:11 a.m. 10:19 a.m. 2:35 p.m. 1:14 p.m. AA-3063-SLC-LAX 10:18 a.m.
+ua UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. 8:00 a.m. orbitz missing UA-2945-PHL-CLT 4:44 p.m.
+flightview AA-3804-PHL-ORD 2:35 p.m. 2:44 p.m. 4:05 p.m. 3:43 p.m. 8:56 a.m. 1:27 p.m. 6:00 a.m. 6:10 a.m. UA-397-JFK-SFO
+businesstravellogue AA-85-JFK-SFO 3:05 p.m. 3:36 p.m. 6:30 p.m. 6:43 p.m. 7:51 a.m. 10:47 a.m. 8:35 a.m. airtravelcenter
+flightexplorer UA-854-SFO-IAH 7:53 a.m. 7:49 a.m. 1:39 p.m. 1:30 p.m. 2:59 p.m. UA-2515-DFW-CLT CO-4888-IAH-DAL CO-47-IAH-LAX 7:05 p.m.
+helloflight AA-1279-DFW-PHX 1:00 p.m. 2:04 p.m. 2:35 p.m. 3:30 p.m. 9:15 a.m. UA-2726-FLL-PHL flightview businesstravellogue
+myrateplan 8:05 a.m. 11:32 a.m. 10:40 a.m. 2:45 p.m. 9:16 a.m. CO-1614-LAX-IAH 11:35 a.m. 11:05 a.m. ord 11:25 p.m.
+quicktrip CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. missing AA-404-MIA-MCO 9:54 a.m. 10:04 a.m.
+businesstravellogue 12:10 p.m. missing 7:17 a.m. 2:15 p.m. 7:36 p.m. 7:45 p.m. flytecomm 8:04 a.m. boston
+helloflight UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. foxbusiness flightarrival 7:10 p.m. 4:47 p.m.
+helloflight AA-3-JFK-LAX 11:40 a.m. 12:11 p.m. 3:15 p.m. 3:16 p.m. 12:00 p.m. flightwise 5:17 p.m. 5:26 p.m.
+flytecomm UA-664-ORD-PHL 1:33 p.m. 1:31 p.m. 4:31 p.m. 4:23 p.m. helloflight myrateplan 12:12 p.m. 3:04 p.m.
+flightarrival UA-3515-IAD-MSP 8:15 a.m. 8:12 a.m. 10:06 a.m. 9:56 a.m. 2:48 p.m. UA-2906-PHL-MCO 10:45 a.m. 12:10 p.m.
+flylouisville UA-3925-IAD-ORF 8:41 a.m. 8:42 a.m. 9:54 a.m. 9:43 a.m. 9:16 a.m. 12:18 p.m. 10:31 a.m. 2:26 p.m. mco
+flightexplorer CO-1090-BOS-IAH 9:45 a.m. 10:19 a.m. 1:16 p.m. 1:19 p.m. UA-2708-EWR-CLT 10:29 p.m. 11:32 a.m. 12:15 p.m.
+helloflight AA-4307-ORD-DTW 6:45 p.m. 6:55 p.m. 9:10 p.m. 8:53 p.m. 12:15 a.m. CO-1561-PHX-IAH 7:53 p.m. 10:15 p.m.
+flightaware AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. <UNK> AA-484-DFW-MIA 10:40 a.m. AA-3756-ORD-SLC
+flytecomm AA-3-JFK-LAX 12:00 p.m. 12:11 p.m. 3:15 p.m. 3:16 p.m. 12:50 p.m. AA-4307-ORD-DTW 7:55 a.m. AA-3786-IAH-ORD 7:39 p.m.
+flightstats UA-2708-EWR-CLT <UNK> <UNK> 5:26 p.m. orbitz AA-3-JFK-LAX UA-2906-PHL-MCO AA-2312-DFW-DTW CO-58-DEN-IAH
+flytecomm AA-4330-CVG-ORD 3:35 p.m. 3:36 p.m. 4:00 p.m. 3:33 p.m. 1:30 p.m. 10:54 a.m. 3:13 p.m. 1:17 p.m. 3:31 p.m.
+travelocity AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:05 a.m. 11:01 a.m. phl CO-50-CLE-EWR 9:15 a.m. AA-2050-ORD-MIA
+orbitz AA-1165-JFK-MIA 6:59 a.m. 10:55 a.m. 11:19 a.m. 11:21 a.m. 6:10 a.m. 11:53 a.m. 10:29 p.m. myrateplan
+myrateplan AA-1434-DFW-MCO 7:15 a.m. 7:21 a.m. 10:35 a.m. 10:36 a.m. 11:06 a.m. AA-431-MIA-SFO AA-404-MIA-MCO UA-3099-PHX-PHL
+orbitz UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. 12:57 p.m. AA-3786-IAH-ORD CO-16-LAX-EWR UA-62-IAH-EWR
+foxbusiness UA-3050-PHX-CLT 11:05 a.m. 11:30 a.m. 4:57 p.m. 5:05 p.m. AA-1522-SFO-ORD 4:00 p.m. flights 9:15 a.m.
+mco AA-4277-CVG-JFK 12:10 p.m. 12:10 p.m. 2:15 p.m. 1:43 p.m. AA-518-MIA-JFK 8:23 p.m. AA-643-MIA-ORD CO-4888-IAH-DAL AA-4307-ORD-DTW
+flights UA-2906-PHL-MCO 3:50 p.m. error1 error3 4:09 p.m. 4:59 p.m. 9:45 a.m. 7:36 p.m. 11:30 a.m.
+flightexplorer UA-37-EDI-EWR 9:05 a.m. 8:52 a.m. 2:27 p.m. AA-85-JFK-SFO CO-1088-CLE-IAH 6:30 p.m. 11:15 a.m. flightview
+airtravelcenter CO-58-DEN-IAH 11:25 a.m. 11:32 a.m. 2:50 p.m. 3:31 p.m. 7:40 a.m. UA-3373-IAD-PHL 7:22 a.m. CO-62-IAH-EWR
+flightview UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. 5:22 p.m. UA-3050-PHX-CLT 9:21 a.m. 8:25 p.m. AA-466-IAH-MIA
+aa UA-843-LAX-ORD 1:55 p.m. 2:10 p.m. 7:53 p.m. 7:58 p.m. 1:17 p.m. 1:14 p.m. CO-62-IAH-EWR AA-4277-CVG-JFK 10:10 a.m.
+flightstats UA-248-PHX-ORD 12:57 p.m. 1:32 p.m. 5:15 p.m. 5:34 p.m. 10:30 p.m. AA-85-JFK-SFO 6:45 p.m. 11:21 a.m. 4:29 p.m.
+flightarrival CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. AA-1544-SAN-ORD AA-1165-JFK-MIA AA-643-MIA-ORD 2:30 p.m.
+travelocity UA-2726-FLL-PHL 4:00 p.m. 4:00 p.m. 6:46 p.m. 6:28 p.m. mco 9:54 a.m. 4:09 p.m. 9:45 a.m.
+aa UA-2704-DTW-PHX 11:15 a.m. 11:15 a.m. 1:40 p.m. 2:00 p.m. 5:38 p.m. 1:40 p.m. AA-2312-DFW-DTW error2 UA-2314-ATL-PHL
+panynj AA-400-DFW-JFK 10:40 a.m. 11:01 a.m. 2:59 p.m. 3:04 p.m. <UNK> mytripandmore UA-233-LAX-JFK 11:25 p.m.
+wunderground AA-446-DFW-PHL 11:50 a.m. 12:12 p.m. 3:50 p.m. 4:09 p.m. 10:55 a.m. 11:44 a.m. UA-854-SFO-IAH 5:26 p.m.
+helloflight CO-63-EWR-IAH 5:25 p.m. 5:22 p.m. 8:22 p.m. 8:03 p.m. <S> 5:25 p.m. 9:53 p.m. 11:25 p.m.
+airtravelcenter UA-5487-SFO-MRY 10:39 a.m. 10:33 a.m. 11:19 a.m. 11:21 a.m. CO-1614-LAX-IAH 1:31 p.m. 6:45 p.m. 4:12 p.m.
+flightview AA-3859-IAH-ORD 7:10 a.m. 7:31 a.m. 7:25 p.m. 3:14 p.m. 11:25 a.m. 6:43 p.m. UA-1500-IAH-GUA 1:43 p.m. 7:25 a.m.
+weather UA-382-IAD-LAX 12:30 p.m. 12:35 p.m. 3:19 p.m. 3:21 p.m. 4:29 p.m. 9:21 a.m. CO-1193-EWR-MCO 3:36 p.m. 7:53 a.m.
+aa AA-3063-SLC-LAX 8:20 p.m. 8:39 p.m. 9:20 p.m. 3:14 p.m. UA-2726-FLL-PHL 6:55 p.m. AA-1165-JFK-MIA 12:12 p.m.
+mytripandmore AA-3756-ORD-SLC 12:15 p.m. 12:41 p.m. 2:45 p.m. 2:50 p.m. AA-789-ORD-DEN 6:57 a.m. 2:10 p.m. 1:05 p.m.
+travelocity UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. 12:29 a.m. 12:29 a.m. 7:55 a.m. 3:35 p.m. 3:05 p.m. 4:55 p.m.
+flightarrival CO-1614-LAX-IAH 12:30 a.m. 12:41 a.m. 5:35 a.m. 10:36 a.m. 12:00 a.m. 6:44 p.m. gofox 7:16 a.m.
+businesstravellogue CO-1023-IAH-DEN 11:40 a.m. 11:56 a.m. 1:17 p.m. 1:14 p.m. 3:27 p.m. 6:55 a.m. 1:43 p.m. 6:28 p.m.
+allegiantair AA-2957-DFW-CVG 7:55 a.m. 8:04 a.m. 11:05 a.m. 11:01 a.m. 4:23 p.m. 4:56 p.m. 3:43 p.m. 10:15 a.m.
+foxbusiness UA-828-SFO-ORD 11:08 p.m. 11:08 p.m. 5:11 a.m. 5:11 a.m. AA-616-DFW-DTW 4:56 p.m. 4:59 p.m. 3:31 p.m. 12:12 p.m.
+flightaware UA-2906-PHL-MCO 3:50 p.m. 4:28 p.m. 6:23 p.m. 6:38 p.m. 7:55 a.m. 2:35 p.m. CO-1088-CLE-IAH 7:36 p.m.
+ifly CO-63-EWR-IAH 5:25 p.m. 5:22 p.m. error4 8:22 p.m. 8:03 p.m. 3:36 p.m. AA-2268-PHX-ORD 8:25 p.m. 11:58 a.m.
+helloflight UA-233-LAX-JFK 4:25 p.m. 4:25 p.m. missing 12:29 a.m. 6:17 p.m. 8:27 a.m. ua error5
+flightexplorer UA-3373-IAD-PHL 8:29 a.m. 8:26 a.m. 9:24 a.m. 9:13 a.m. UA-3373-IAD-PHL 8:03 p.m. 12:12 p.m. error5 8:56 a.m.
+flightstats AA-643-MIA-ORD 7:10 a.m. 7:30 a.m. 9:35 a.m. 9:31 a.m. 6:02 a.m. 7:31 a.m. 3:16 p.m. UA-248-PHX-ORD weather
+flytecomm UA-3925-IAD-ORF 8:41 a.m. 8:42 a.m. 9:54 a.m. 9:43 a.m. UA-858-PVG-SFO 10:10 a.m. 3:16 p.m. UA-2515-DFW-CLT
+foxbusiness UA-2726-FLL-PHL 4:00 p.m. 4:00 p.m. 6:46 p.m. 6:28 p.m. 3:35 p.m. 10:40 a.m. 10:25 a.m. AA-1733-ORD-PHX
