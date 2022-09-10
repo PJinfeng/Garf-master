@@ -21,7 +21,7 @@ insert_error.py用于添加错误，错误包含3类：拼写错误，数据缺�
 随着数据量提升，模型性能提升，论文中Hosp数据量为100k，Food数据量为200k  
 若需补充数据，请点击下方链接：  
 
-Hosp：http://www.hospitalcompare.hhs.gov/或https://data.medicare.gov/data/physician-compare  
+Hosp：https://data.medicare.gov/data/physician-compare  
 Food：https://data.cityofchicago.org  
 Flight：http://lunadong.com/fusionDataSets.htm  
 UIS：https://www.cs.utexas.edu/users/ml/riddle/data.html  
