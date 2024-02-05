@@ -19,6 +19,8 @@ insert_error.py用于添加错误，错误包含3类：拼写错误，数据缺�
 预期结果：  
 测试数据集数据量为10k条，Hosp数据集结果为准确率98%±1%，召回率65%±3%；Food数据集结果为准确率97%±2%，召回率62%±5%  
 随着数据量提升，模型性能提升，论文中Hosp数据量为100k，Food数据量为200k  
+更多的实验结果与模型介绍请见：https://www.vldb.org/pvldb/vol16/p433-peng.pdf
+
 若需补充数据，请点击下方链接：  
 
 Hosp：https://data.medicare.gov/data/physician-compare  
